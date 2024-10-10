@@ -40,7 +40,7 @@ Download release or dist\poppy_sheet.zip and open executable main.exe
 
 ## Customization
 
-Feel free to customize the game by modifying the source code. Adjust the maze generation, colors, screen dimensions, and more to your liking.
+Feel free to customize the game by modifying the source code!
 
 ## Contributing
 
