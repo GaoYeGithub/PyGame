@@ -1,7 +1,7 @@
 # Forest Cat's Adventure - Part 1: Exploration and Battle
 
 Welcome to Cat's Adventure, an exciting journey where you guide a brave cat exploring a mysterious world filled with danger and adventure. 
-So far I only created a complete the basic parallax map, camera controls, and basic projectiles and goblins enemies. Y
+So far I only created a complete the basic parallax map, camera controls, and basic projectiles and goblins enemies.
 I'm hoping to improve my skill and improve/fix many of the mechanics!
 
 ## Features in Part 1
