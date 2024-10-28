@@ -1,4 +1,4 @@
-# Forest Cat's Adventure - Part 1: Exploration and Battle
+# Forest Cat's Adventure Test
 
 Welcome to Cat's Adventure, an exciting journey where you guide a brave cat exploring a mysterious world filled with danger and adventure. 
 So far I only created a complete the basic parallax map, camera controls, and basic projectiles and goblins enemies.
@@ -37,11 +37,3 @@ Download release or dist\poppy_sheet.zip and open executable main.exe
    ```
 
 3. Then open main.exe
-
-## Customization
-
-Feel free to customize the game by modifying the source code!
-
-## Contributing
-
-Contributions are welcome! Feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
